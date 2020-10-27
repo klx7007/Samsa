@@ -1,0 +1,3 @@
+include ':loupe-library'
+include ':app'
+rootProject.name = "Samsa"

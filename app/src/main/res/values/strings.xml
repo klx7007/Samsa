@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Samsa</string>
+
+    <!-- Spotlight -->
+    <string name="spotlight_tag_drawer_hint">Drag left to show tags drawer</string>
+
+    <!-- MainActivity -->
+    <string name="app_close_back_button">One more time to close app</string>
+
+    <!-- PostListFragment -->
+    <string name="tagbar_hint">tags…</string>
+    <string name="settings_button_description">settings_button</string>
+    <string name="autocomplete_tag">%1$s (%2$s)</string>
+    <string name="list_load_error"><strike>Do you guys not have Vpns?</strike></string>
+    <string name="list_load_no_result">No result</string>
+
+    <!-- MediaFragment -->
+    <string name="storage_permission_blocked">Please give this app storage permission to download</string>
+    <string name="generic_error">Error</string>
+
+    <string name="gallery_tag_dialog">Place 『%1$s』 tag at?</string>
+    <string name="ok_blacklist">Black</string>
+    <string name="ok_favorite">Favor</string>
+    <string name="gallery_tag_blacked">『%1$s』 added to blacklist</string>
+    <string name="gallery_tag_favored">『%1$s』 added to favorites</string>
+
+    <string name="post_download_confirm">download this post?</string>
+    <string name="starting_post_download">starting %1$s download 🍆💦</string>
+
+    <!-- PageFragment -->
+    <string name="image_fragment_null_id">NULL postID passed to image fragment</string>
+    <string name="test_image_url">https://danbooru.donmai.us/data/sample/__original_drawn_by_ei1han__sample-b47a44fb71a4ae9b578520a6cc9ebb07.jpg</string>
+
+    <string name="video_fragment_null_id">NULL postID passed to video fragment</string>
+    <string name="video_fragment_parse_error">Error parsing video source</string>
+
+    <string name="source_loading_error">error loading source</string>
+
+    <!-- Preference -->
+    <string name="pref_toolbar_title">Settings</string>
+
+    <string name="pref_title_gallery_list">Gallery list</string>
+    <string name="pref_title_dark_mode">Night mode</string>
+    <string name="pref_title_blacklist">Tag blacklist</string>
+    <string name="pref_summary_blacklist">Can also be added by long-clicking in gallery tag menu</string>
+    <string name="pref_title_favorite">Favorites</string>
+    <string name="pref_title_video_autoplay">Video autoplay</string>
+    <string name="pref_title_app_version">App version</string>
+    <string name="pref_title_preload_count">Post preload count</string>
+    <string name="pref_summary_preload_count">Preload next n posts</string>
+    <string name="pref_title_display_tutorial">Reset display tutorials</string>
+    <string name="pref_title_delete_image_cache">Delete image cache</string>
+    <string name="pref_confirm_delete_image_cache">Delete image cache?</string>
+    <string name="pref_title_github_link">Open Github repository</string>
+
+
+    <string name="add">add</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="saved">Saved</string>
+    <string name="download">Download</string>
+
+    <!-- Gallery Site Info -->
+    <string name="paheal">Paheal</string>
+    <string name="paheal_url">https://rule34.paheal.net/</string>
+
+    <string name="rule34_xxx">Rule34.xxx</string>
+    <string name="rule34_xxx_url">https://rule34.xxx/</string>
+
+    <string name="rastafarian">Rastafarian</string>
+    <string name="rastafarian_url">https://rule34hentai.net/</string>
+</resources>

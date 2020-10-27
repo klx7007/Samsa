@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+
+        <variable
+            name="postItem"
+            type="com.example.samsa.api.model.PostModel" />
+    </data>
+
+    <com.google.android.material.card.MaterialCardView
+        style="@style/MyCardViewStyle"
+        vidBorder="@{postItem.isVid}"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:clickable="true"
+
+        android:focusable="true"
+        app:layout_constraintBottom_toBottomOf="parent"
+
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:strokeColor="@color/vidTheme">
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/post_thumbnail"
+            imageUrl="@{postItem.postThumbnailUrl}"
+            android:layout_width="match_parent"
+            android:layout_height="200dp" />
+
+    </com.google.android.material.card.MaterialCardView>
+</layout>

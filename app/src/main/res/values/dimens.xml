@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="isVid_border">2dp</dimen>
+    <dimen name="isVid_no_border">0dp</dimen>
+    <dimen name="media_viewpager2_gap">15dp</dimen>
+    <dimen name="searchBar_horizontal_margin">10dp</dimen>
+    <dimen name="searchBar_editText_vertical_margin">6dp</dimen>
+</resources>

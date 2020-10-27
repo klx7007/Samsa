@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#042C3B</color>
+    <color name="colorOnPrimary">#DCDCDC</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#EB804C</color>
+    <color name="colorBackground">#FBF4D0</color>
+
+    <color name="image_background_tint">@color/image_background_tint_dark</color>
+
+    <color name="status_bar_color">@color/status_bar_color_dark</color>
+    <color name="spotlight_background">@color/spotlight_background_dark</color>
+</resources>

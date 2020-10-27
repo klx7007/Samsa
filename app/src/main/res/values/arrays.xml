@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="galleryList">
+        <item>@string/rule34_xxx</item>
+        <item>@string/paheal</item>
+        <item>@string/rastafarian</item>
+    </string-array>
+
+    <string-array name="galleryListValues">
+        <item>@string/rule34_xxx_url</item>
+        <item>@string/paheal_url</item>
+        <item>@string/rastafarian_url</item>
+    </string-array>
+</resources>

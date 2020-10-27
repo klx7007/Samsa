@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#EB804C</color>
+    <color name="colorOnPrimary">#B3042C3B</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#EB804C</color>
+    <color name="colorBackground">#FBF4D0</color>
+
+    <color name="image_background_tint">#E6FFFFFF</color>
+    <color name="image_background_tint_dark">#E6000000</color>
+
+    <color name="bg_dark">#303030</color>
+    <color name="darkGrey">#121212</color>
+    <color name="black">#000000</color>
+    <color name="vidTheme">#EB804C</color>
+    <color name="white">#ffffff</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="status_bar_color">#f6c0a6</color>
+    <color name="status_bar_color_dark">#001d26</color>
+
+    <color name="spotlight_background">#E6F6C0A6</color>
+    <color name="spotlight_background_dark">#E6042C3B</color>
+</resources>

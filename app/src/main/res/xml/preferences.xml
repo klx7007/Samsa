@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory android:title="List">
+
+        <Preference
+            app:key="@string/pref_key_blacklist"
+            app:summary="@string/pref_summary_blacklist"
+            app:title="@string/pref_title_blacklist" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Gallery">
+
+        <SwitchPreferenceCompat
+            app:key="@string/pref_key_video_autoplay"
+            app:title="@string/pref_title_video_autoplay" />
+
+        <Preference
+            app:key="@string/pref_key_preload_count"
+            app:summary="@string/pref_summary_preload_count"
+            app:title="@string/pref_title_preload_count" />
+
+        <Preference
+            android:key="@string/pref_key_display_tutorial"
+            android:title="@string/pref_title_display_tutorial" />
+
+        <Preference
+            android:key="delete_glide_cache"
+            android:title="@string/pref_title_delete_image_cache" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="General">
+
+        <SwitchPreferenceCompat
+            app:key="@string/pref_key_dark_mode"
+            app:title="@string/pref_title_dark_mode" />
+
+        <Preference
+            app:key="version_info"
+            app:title="@string/pref_title_app_version" />
+
+        <Preference
+            app:key="github_link"
+            app:title="@string/pref_title_github_link" />
+
+    </PreferenceCategory>
+
+
+</PreferenceScreen>

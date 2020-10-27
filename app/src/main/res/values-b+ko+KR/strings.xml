@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">쌈싸</string>
+
+    <!-- Spotlight -->
+    <string name="spotlight_tag_drawer_hint">왼쪽 땡겨서 태그 보기</string>
+
+    <!-- MainActivity -->
+    <string name="app_close_back_button">한번더 눌러 종료</string>
+
+    <!-- PostListFragment -->
+    <string name="tagbar_hint">태그…</string>
+    <string name="settings_button_description">설정 버튼</string>
+    <string name="autocomplete_tag">%1$s (%2$s)</string>
+    <string name="list_load_error"><strike>여러분 Vpn 없나요?</strike></string>
+    <string name="list_load_no_result">결과 없음</string>
+
+    <!-- MediaFragment -->
+    <string name="storage_permission_blocked">다운로드를 원하시면, 설정에서 저장장소 권한을 허용해주세요</string>
+    <string name="generic_error">그냥 에러!</string>
+
+    <string name="gallery_tag_dialog">『%1$s』 태그를 어디로?</string>
+    <string name="ok_blacklist">블랙</string>
+    <string name="ok_favorite">즐찾</string>
+    <string name="gallery_tag_blacked">『%1$s』 블랙리스트에 추가됨</string>
+    <string name="gallery_tag_favored">『%1$s』 즐겨찾기에 추가됨</string>
+
+    <string name="post_download_confirm">현재 미디어 다운로드?</string>
+    <string name="starting_post_download">%1$s 다운로드 시작 🍆💦</string>
+
+    <!-- PageFragment -->
+    <string name="image_fragment_null_id">이미지 postId 에러!</string>
+    <string name="test_image_url">https://danbooru.donmai.us/data/sample/__original_drawn_by_ei1han__sample-b47a44fb71a4ae9b578520a6cc9ebb07.jpg</string>
+
+    <string name="video_fragment_null_id">비디오 postId 에러!</string>
+    <string name="video_fragment_parse_error">비디오 링크 에러!</string>
+
+    <string name="source_loading_error">페이지 로딩 에러!</string>
+
+    <!-- Preference -->
+    <string name="pref_toolbar_title">설정</string>
+
+    <string name="pref_title_gallery_list">갤러리 리스트</string>
+    <string name="pref_title_dark_mode">다크모드</string>
+    <string name="pref_title_blacklist">태그 블랙리스트</string>
+    <string name="pref_summary_blacklist">갤러리에서 태그를 길게 눌러서도 추가 가능</string>
+    <string name="pref_title_favorite">즐겨찾기</string>
+    <string name="pref_title_video_autoplay">동영상 자동재생</string>
+    <string name="pref_title_app_version">앱 버전</string>
+    <string name="pref_title_preload_count">미리 불러오기 수</string>
+    <string name="pref_summary_preload_count">다음 n개 이미지 미리 불러오기</string>
+    <string name="pref_title_display_tutorial">튜토리얼 다시보기</string>
+    <string name="pref_title_delete_image_cache">이미지 캐시 삭제</string>
+    <string name="pref_confirm_delete_image_cache">이미지 캐시 삭제?</string>
+    <string name="pref_title_github_link">깃헙 레포 링크</string>
+
+    <string name="add">추가</string>
+    <string name="ok">네</string>
+    <string name="cancel">취소</string>
+    <string name="save">저장</string>
+    <string name="saved">저장됨</string>
+    <string name="download">다운로드</string>
+
+    <!-- Gallery Site Info -->
+    <string name="paheal">Paheal</string>
+    <string name="paheal_url">https://rule34.paheal.net/</string>
+
+    <string name="rule34_xxx">Rule34.xxx</string>
+    <string name="rule34_xxx_url">https://rule34.xxx/</string>
+
+    <string name="rastafarian">Rastafarian</string>
+    <string name="rastafarian_url">https://rule34hentai.net/</string>
+</resources>

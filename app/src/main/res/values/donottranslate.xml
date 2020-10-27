@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_key_gallery_list">galleryList</string>
+    <string name="pref_key_dark_mode">darkModeSwitch</string>
+    <string name="pref_key_blacklist">blacklistTags</string>
+    <string name="pref_key_favorite">favoriteTags</string>
+    <string name="pref_key_video_autoplay">autoplayEnabled</string>
+    <string name="pref_key_preload_count">mediaPreloadCount</string>
+    <string name="pref_key_display_tutorial">displayTutorial</string>
+    <string name="pref_key_check_for_updates">checkUpdates</string>
+</resources>
