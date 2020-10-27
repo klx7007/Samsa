@@ -12,6 +12,5 @@
   <br><br>
   <h3>Screenshot</h3>
   <p align="center">
-  <img src="/art/postlist_screenshot.png"  width="300" >
   </p>
 </p>
