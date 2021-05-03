@@ -2,7 +2,7 @@
 
 <p align="center">
   <br>
-  <i>Unofficial image browser for r34</i>
+  <i>Unofficial image/video browser for r34</i>
   <br><br>
   <img src="https://img.shields.io/github/downloads/klx7007/Samsa/total?logoColor=red&style=social" />
   <br>
