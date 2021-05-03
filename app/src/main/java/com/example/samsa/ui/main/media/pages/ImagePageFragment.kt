@@ -61,7 +61,7 @@ class ImagePageFragment : Fragment() {
 
         errorText = v.findViewById(R.id.image_errorText)
         progress = v.findViewById(R.id.image_progress)
-        val container = v.findViewById<ViewGroup>(R.id.image_container)
+        val imageContainer = v.findViewById<ViewGroup>(R.id.image_container)
 
         photoView = v.findViewById<ImageView>(R.id.image_photoView)
 
@@ -79,7 +79,7 @@ class ImagePageFragment : Fragment() {
                 }
                 glil = GlideLoupeImageLoader(
                     photoView,
-                    container,
+                    imageContainer,
                     progress,
                     errorText,
                     loupeInitializer

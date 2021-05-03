@@ -93,9 +93,9 @@ class XxxPost(
 
     override val postId = id
     override val postThumbnailUrl = preview_url
-    override val isVid: Boolean = file_url.endsWith(".webm")
+    override val isVid: Boolean = file_url.endsWith(".webm") || file_url.endsWith(".mp4")
     override val tagsList: ArrayList<String> = splitTags
-    override val fileUrl: String? = file_url
-    override val hasComments: Boolean? = has_comments.toBoolean()
-    override val createdAt: String? = created_at
+    override val fileUrl = file_url
+    override val hasComments: Boolean = has_comments.toBoolean()
+    override val createdAt: String = created_at
 }
